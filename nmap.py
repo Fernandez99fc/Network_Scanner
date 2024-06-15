@@ -3,10 +3,10 @@ import nmap
 scanner = nmap.PortScanner()
 print("Welcome,this is a simple nmap automation tool")
 print("<--------------------------------------------------------->")
-ip_addr =input("Please enter the Ip address you wanna scan:")
+ip_addr =input("Please enter the Ip address you want to scan:")
 print("The Ip address you want to scan is "+ip_addr)
 type(ip_addr)
-resp=input("""\nPlease enter the type of scan you want to run
+resp=input("""\nPlease enter the scan type:
                1)SYN ACK SCAN
                2)UDP scan
                3)Comprehensive scan
