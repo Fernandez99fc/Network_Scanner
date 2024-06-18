@@ -11,9 +11,9 @@ resp=input("""\nPlease enter the scan type:
                2)UDP scan
                3)Comprehensive scan
                4)Tcp connect
-               5)Tcp connect
-               6)Tcp connect
-               7)Tcp connect: \n""")
+               5)Tcp Null
+               6)Tcp Fin
+               7)Tcp Xmas: \n""")
 
 print("You have selected option "+resp)
 
