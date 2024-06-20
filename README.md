@@ -1,2 +1,3 @@
 # Network_Scanner
-* An Effective Network scanning tool. It is capable of scanning using tcp and udp, scans for ports, detects service version, performs a stealth scan,Os detection and other scanning techniques like firewall evasion
+* A simple netwotk scanning tool capable of detecting open udp and tcp pors. Enhanced Capability to be made in the future to support Os detection, Version detection and other scanning techniques.
+* 
